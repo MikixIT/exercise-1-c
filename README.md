@@ -23,6 +23,6 @@ int main(void) {
     }
     // if u type a letter, is a mess lol
     
-    printf("\n the sum of your typed numbers is:: %d \n", numbers);
+    printf("\n the sum of your typed numbers is: %d \n", numbers);
 }
 ```
